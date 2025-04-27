@@ -48,6 +48,6 @@ def password_generator(f_name,l_name,date_of_birth):
 
     return password
 password_generator(f_name,l_name,date_of_birth)
-print(password_generator(f_name,l_name,date_of_birth))
+print("the password=>",password_generator(f_name,l_name,date_of_birth))
 
 
